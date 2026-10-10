@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人资料选题研究"
+  short_description: "从观影、阅读、跑步等个人记录发现选题，核实资料并维护研究库"
+  default_prompt: "使用 $personal-data-topics，从我的现有资料中发现有意思的选题，列出个人依据、比较方式、资料缺口和推荐顺序。"

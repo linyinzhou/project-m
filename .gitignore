@@ -1,0 +1,11 @@
+# Personal records and generated outputs
+/data/
+/assets/
+/tmp/
+/visualizations/
+/local/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
